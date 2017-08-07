@@ -1,0 +1,13 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #eee;
+    font-family: monospace;
+}

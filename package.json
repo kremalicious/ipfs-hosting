@@ -1,0 +1,22 @@
+{
+  "name": "ipfs-hosting",
+  "version": "1.0.0",
+  "description": "Playground exploring various ways of deploying a static website to IPFS",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.4.0",
+    "eslint-config-ascribe": "^3.0.4",
+    "eslint-plugin-import": "^2.7.0"
+  },
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "ipfs": "^0.25.1",
+    "ipfs-api": "^14.1.1"
+  }
+}
